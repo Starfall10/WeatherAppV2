@@ -1,5 +1,5 @@
 import React from "react";
-import "./Header.css";
+import "./css/Header.css";
 import searchIcon from "../assets/search.png";
 import moonIcon from "../assets/moonb.png";
 
@@ -13,7 +13,7 @@ const Header = () => {
       </div>
 
       <div className="darkModeBox">
-        <img src={moonIcon} alt="" />
+        <img src={moonIcon} alt="moonIcon" />
       </div>
     </div>
   );

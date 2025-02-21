@@ -1,0 +1,45 @@
+.main {
+  border-radius: 1.25rem;
+  background: linear-gradient(
+    219deg,
+    #010614 13.68%,
+    #1a2747 50%,
+    #1c2438 82.86%
+  );
+  padding: 1.25rem;
+  width: 100%;
+}
+
+.date_time {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding-bottom: 1.5rem;
+}
+
+.weather_main {
+  display: flex;
+  padding-bottom: 1.5rem;
+}
+
+.weather_main img {
+  width: 10rem;
+  height: 10rem;
+}
+
+.temp {
+  font-size: 3rem;
+}
+
+.location {
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.high_low {
+  display: flex;
+}
+
+.high_low p {
+  margin-right: 2rem;
+}

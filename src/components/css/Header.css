@@ -48,12 +48,7 @@
 
 .darkModeBox {
   border-radius: 1.25rem;
-  background: linear-gradient(
-    219deg,
-    #010614 13.68%,
-    #1a2747 50%,
-    #1c2438 82.86%
-  );
+  background: linear-gradient(219deg, #010614, #1d3571);
   padding: 1.25rem;
 }
 
