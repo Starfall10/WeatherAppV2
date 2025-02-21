@@ -1,4 +1,3 @@
-import React from "react";
 import "./css/Main.css";
 import cloudy from "../assets/cloudy.png";
 
